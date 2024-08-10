@@ -1,7 +1,7 @@
 ## POTENCIAL EOLICO DE GUANACASTE
 ---
 ## Se adjuntan mapas de velocidad del viento en m/s y de densidad de potencia en w/m2 a 10 y 50 m de altura sobre el suelo.
-Estos mapas dan una orientacion donde se puede y estan instaladas molinos de viento para generacion electrica, asi como zonas 
+## Estos mapas dan una orientacion donde se puede y estan instaladas molinos de viento para generacion electrica, asi como zonas 
 de bajo viento para sembrar ciertos cultivos.
 ## Abajo se adjuntan los vinculos para ver los mapas interactivamente.
 --- 
