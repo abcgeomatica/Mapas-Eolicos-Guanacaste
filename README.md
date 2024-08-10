@@ -9,9 +9,19 @@ de bajo viento para sembrar ciertos cultivos.
 ![Mapa3](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Densidad%20potencia%20a%2050%20m%20altura.jpg)
 ![Mapa4](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Densidad%20potencia%20a%2010%20m%20altura.jpg)
 
-GEE code:
+Mapas GEE code:
 https://code.earthengine.google.com/48ca9db0064e5c9764881b4aadbe1d95
 
-GEE App
+Mapas GEE App
 https://ee-abcgeomaticaagricola.projects.earthengine.app/view/potencial-eolico-guanacaste
+
+Mapas Github
+https://abcgeomatica.github.io/Mapas-Eolicos-Guanacaste/
+
+Mapas Qgiscloud
+https://qgiscloud.com/sigeomatica/Potencial_Eolico/
+
+Mapas WMS
+https://qgiscloud.com/sigeomatica/Potencial_Eolico/wms?SERVICE=WMS&REQUEST=GetCapabilities
+
 
