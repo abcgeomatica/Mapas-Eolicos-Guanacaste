@@ -7,7 +7,7 @@ de bajo viento para sembrar ciertos cultivos.
 ![Mapa](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2050%20m%20altura.jpg) 
 ![Mapa2](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2010%20m%20altura.jpg)
 ![Mapa3](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Densidad%20potencia%20a%2050%20m%20altura.jpg)
-![Mapa4](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2010%20m%20altura.jpg)
+![Mapa4](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Densidad%20potencia%20a%2010%20m%20altura.jpg)
 
 GEE code:
 https://code.earthengine.google.com/48ca9db0064e5c9764881b4aadbe1d95
