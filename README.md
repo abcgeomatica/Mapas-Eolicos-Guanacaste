@@ -5,6 +5,7 @@ Estos mapas dan una orientacion donde se puede y estan instaladas molinos de vie
 de bajo viento para sembrar ciertos cultivos.
 ---
 ![Mapa](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2050%20m%20altura.jpg) 
+!(https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2010%20m%20altura.jpg)
 
 
 GEE code:
