@@ -6,9 +6,9 @@ Estos mapas dan una orientacion donde se puede instalar turbinas eolicas para ge
 ---
  Abajo se adjuntan los vinculos para ver los mapas interactivamente en varias plataformas.
 --- 
-##
+#
 ---
-Fuente:  “[Data/information/map] obtained from the Global Wind Atlas version 3.3, a free, web-based application developed, owned and operated by the Technical University of Denmark (DTU). The Global Wind Atlas version 3.3 is released in partnership with the World Bank Group, utilizing data provided by Vortex, using funding provided by the Energy Sector Management Assistance Program (ESMAP). For additional information: https://globalwindatlas.info”
+Fuente:  “[Data/information/map] obtained from the Global Wind Atlas version 3.3, a free, web-based application developed, owned and operated by the Technical University of Denmark (DTU). The Global Wind Atlas version 3.3 is released in partnership with the World Bank Group, utilizing data provided by Vortex, using funding provided by the Energy Sector Management Assistance Program (ESMAP). For additional information: [https://globalwindatlas.info](https://globalwindatlas.info/es)”
 ---
 ![Mapa](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2050%20m%20altura.jpg) 
 ![Mapa2](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Velocidad%20viento%20a%2010%20m%20altura.jpg)
