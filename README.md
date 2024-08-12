@@ -5,6 +5,7 @@ Se adjuntan mapas de velocidad del viento en m/s y de densidad de potencia en w/
 Estos mapas dan una orientacion donde se puede instalar turbinas eolicas para generacion electrica, asi como zonas de bajo viento para sembrar ciertos cultivos suceptibles.
 ---
  Abajo se adjuntan los vinculos para ver los mapas interactivamente en varias plataformas.
+ El orden de velocidad de descarga por plataforma es el siguiente:  GEE --> Github --> Qgiscloud
 --- 
 
 ---
