@@ -17,7 +17,7 @@ Estos mapas dan una orientacion donde se puede instalar turbinas eolicas para ge
 ![Mapa4](https://github.com/abcgeomatica/Mapas-Eolicos-Guanacaste/blob/master/Densidad%20potencia%20a%2010%20m%20altura.jpg)
 
 Mapas en GEE code (Requiere registro):
-https://code.earthengine.google.com/48ca9db0064e5c9764881b4aadbe1d95
+https://code.earthengine.google.com/2e545a07ea0e3639a498d58323198886
 
 Mapas en GEE App
 https://ee-abcgeomaticaagricola.projects.earthengine.app/view/potencial-eolico-guanacaste
